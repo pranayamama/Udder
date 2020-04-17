@@ -13,6 +13,7 @@
 		61151A85244A55DD00AD95EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61151A83244A55DD00AD95EA /* Main.storyboard */; };
 		61151A87244A55DE00AD95EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61151A86244A55DE00AD95EA /* Assets.xcassets */; };
 		61151A8A244A55DE00AD95EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61151A88244A55DE00AD95EA /* LaunchScreen.storyboard */; };
+		61151A92244A5F2600AD95EA /* download.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 61151A91244A5F2600AD95EA /* download.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		61151A86244A55DE00AD95EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61151A89244A55DE00AD95EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61151A8B244A55DE00AD95EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61151A91244A5F2600AD95EA /* download.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				61151A81244A55DD00AD95EA /* ViewController.swift */,
 				61151A83244A55DD00AD95EA /* Main.storyboard */,
 				61151A86244A55DE00AD95EA /* Assets.xcassets */,
+				61151A91244A5F2600AD95EA /* download.jpg */,
 				61151A88244A55DE00AD95EA /* LaunchScreen.storyboard */,
 				61151A8B244A55DE00AD95EA /* Info.plist */,
 			);
@@ -128,6 +131,7 @@
 				61151A8A244A55DE00AD95EA /* LaunchScreen.storyboard in Resources */,
 				61151A87244A55DE00AD95EA /* Assets.xcassets in Resources */,
 				61151A85244A55DD00AD95EA /* Main.storyboard in Resources */,
+				61151A92244A5F2600AD95EA /* download.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
